@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BA08-277A
+
+ Directory of C:\Users\ataou\app1
+
+04/03/2025  13:39    <DIR>          .
+04/03/2025  13:39    <DIR>          ..
+04/03/2025  13:39                 0 fichier1.txt
+04/03/2025  13:25                25 README.md
+               2 File(s)             25 bytes
+               2 Dir(s)  20,311,756,800 bytes free
